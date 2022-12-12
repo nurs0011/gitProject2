@@ -1,0 +1,11 @@
+#Best Practices
+
+## Java
+
+1. Meaningful methods names
+2. Followinf the Naming convention
+
+## Selenium
+
+1. Use ids over xpath
+2. Create POM files
